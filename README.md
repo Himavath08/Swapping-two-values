@@ -30,7 +30,8 @@ y=z
 print("Swapped values are:",x,y)
 ```
 ## Output:
-![image](https://github.com/Himavath08/Swapping-two-values/assets/139110631/626f81a7-c6aa-4fec-a638-04cfb6df1cd2)
+![image](https://github.com/Himavath08/Swapping-two-values/assets/139110631/f5ea30a8-4fb8-43d8-b6d4-91a977d824d7)
+
 
 
 ## RESULT:
